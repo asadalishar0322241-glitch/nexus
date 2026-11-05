@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script>
+      (function() {
+        try {
+          var nativeFetch = window.fetch ? window.fetch.bind(window) : undefined;
+          var activeFetch = nativeFetch;
+          Object.defineProperty(window, 'fetch', {
+            get: function() {
+              return activeFetch;
+            },
+            set: function(fn) {
+              activeFetch = fn;
+            },
+            configurable: true,
+            enumerable: true
+          });
+        } catch (_) {}
+      })();
+    </script>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Nexus International Digital Marketing Agency</title>
+    <meta name="description" content="A premier international digital marketing agency platform delivering data-driven SEO, performance marketing, social media strategy, CRO, consultation booking, and AI marketing advisory." />
+    <meta property="og:title" content="Nexus International Digital Marketing Agency" />
+    <meta property="og:description" content="A premier international digital marketing agency platform delivering data-driven SEO, performance marketing, social media strategy, CRO, consultation booking, and AI marketing advisory." />
+    <meta property="og:type" content="website" />
+    <link rel="canonical" href="https://nexus-agency.com/" />
+    <meta property="og:site_name" content="Nexus International Digital Marketing Agency" />
+    <meta property="og:url" content="https://nexus-agency.com/" />
+    <meta property="og:image" content="https://nexus-agency.com/og-cover.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Nexus International Digital Marketing Agency" />
+    <meta name="twitter:description" content="A premier international digital marketing agency platform delivering data-driven SEO, performance marketing, social media strategy, CRO, consultation booking, and AI marketing advisory." />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfessionalService",
+      "name": "Nexus International Digital Marketing Agency",
+      "url": "https://nexus-agency.com",
+      "logo": "https://nexus-agency.com/logo.png",
+      "description": "Premier international digital marketing agency delivering data-driven SEO, performance marketing, social media strategy, CRO, and consultation booking for US, UK, and UAE enterprises.",
+      "priceRange": "$$$$",
+      "currenciesAccepted": "USD, GBP, AED",
+      "telephone": "+1-555-019-8421",
+      "email": "contact@nexusagency.com",
+      "areaServed": ["United States", "United Kingdom", "United Arab Emirates", "Worldwide"]
+    }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+

@@ -1,0 +1,448 @@
+{
+  "leads": [
+    {
+      "id": "lead-1",
+      "fullName": "David Sterling",
+      "email": "d.sterling@aetheria-retail.co.uk",
+      "phone": "+44 20 7946 0812",
+      "companyName": "Aetheria Luxury Goods Ltd",
+      "websiteUrl": "https://aetheria-retail.co.uk",
+      "country": "United Kingdom",
+      "serviceRequired": "Meta & Social Advertising",
+      "estimatedBudget": "£5,000 - £10,000",
+      "projectDetails": "Looking to expand into European DTC markets and optimize our Meta ROAS from 2.1x to 4x.",
+      "status": "Qualified",
+      "internalNotes": [
+        {
+          "id": "note-1",
+          "timestamp": "2026-11-01T10:14:00Z",
+          "author": "Senior Strategist",
+          "note": "Client verified high average order value (£180). Strong candidate for CAPI server-side testing."
+        }
+      ],
+      "source": "contact_form",
+      "preferredCurrency": "GBP",
+      "createdAt": "2026-11-01T09:40:00Z",
+      "updatedAt": "2026-11-01T10:14:00Z"
+    },
+    {
+      "id": "lead-2",
+      "fullName": "Tariq Al-Mansoor",
+      "email": "tariq@gulftech-holdings.ae",
+      "phone": "+971 50 123 4567",
+      "companyName": "GulfTech Enterprise Solutions",
+      "websiteUrl": "https://gulftech-holdings.ae",
+      "country": "United Arab Emirates",
+      "serviceRequired": "Search Engine Optimization (SEO)",
+      "estimatedBudget": "AED 25,000+ / month",
+      "projectDetails": "Need dual-language Arabic/English B2B authority ranking across GCC for corporate cloud security keywords.",
+      "status": "Proposal Sent",
+      "internalNotes": [
+        {
+          "id": "note-2",
+          "timestamp": "2026-11-02T14:20:00Z",
+          "author": "Head of SEO",
+          "note": "Enterprise tier proposal dispatched. Regional office in Dubai scheduled review call."
+        }
+      ],
+      "source": "quote_calculator",
+      "preferredCurrency": "AED",
+      "createdAt": "2026-11-02T11:22:00Z",
+      "updatedAt": "2026-11-02T14:20:00Z"
+    },
+    {
+      "id": "lead-3",
+      "fullName": "Jessica Miller",
+      "email": "jessica@synapseflow.io",
+      "phone": "+1 (415) 890-1234",
+      "companyName": "SynapseFlow SaaS",
+      "websiteUrl": "https://synapseflow.io",
+      "country": "United States",
+      "serviceRequired": "Web Design & CRO Engineering",
+      "estimatedBudget": "$10,000 - $25,000 / month",
+      "projectDetails": "Our self-serve trial-to-paid conversion is lagging at 3.2%. We need a high-converting web and checkout overhaul.",
+      "status": "New",
+      "internalNotes": [],
+      "source": "contact_form",
+      "preferredCurrency": "USD",
+      "createdAt": "2026-11-03T18:05:00Z",
+      "updatedAt": "2026-11-03T18:05:00Z"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "book-1",
+      "fullName": "Alexander Wright",
+      "email": "a.wright@cortexbiotech.com",
+      "phone": "+1 (212) 555-0144",
+      "company": "Cortex Biotech",
+      "websiteUrl": "https://cortexbiotech.com",
+      "scheduledDate": "2026-11-08",
+      "scheduledTimeSlot": "14:00 - 14:45",
+      "timeZone": "America/New_York",
+      "primaryChallenge": "Paid Media & High CAC",
+      "status": "Confirmed",
+      "createdAt": "2026-11-02T16:00:00Z"
+    }
+  ],
+  "audits": [
+    {
+      "id": "audit-1",
+      "websiteUrl": "https://novabrew-roasters.com",
+      "companyName": "NovaBrew Specialty Coffee",
+      "contactEmail": "founder@novabrew-roasters.com",
+      "monthlyRevenueEstimate": "$50k - $200k",
+      "primaryGoal": "Conversions",
+      "competitorUrl": "https://bluebottlecoffee.com",
+      "status": "Pending Review",
+      "aiScore": 72,
+      "createdAt": "2026-11-03T12:00:00Z"
+    }
+  ],
+  "subscribers": [
+    {
+      "id": "sub-1",
+      "email": "growth-director@fintech-ventures.com",
+      "country": "United States",
+      "subscribedAt": "2026-10-25T11:00:00Z",
+      "active": true
+    }
+  ],
+  "sessions": [
+    {
+      "token": "nexus_sess_1793787493582_zj455hht",
+      "email": "d.sterling@aetheria-retail.co.uk",
+      "expiresAt": "2026-11-11T10:18:13.582Z"
+    }
+  ],
+  "dsarRequests": [
+    {
+      "requestType": "access_export",
+      "fullName": "Julian Hayes",
+      "email": "julian.hayes@meridian-capital.co.uk",
+      "companyName": "Meridian Capital",
+      "country": "United Kingdom",
+      "details": "Requesting complete archive of our PPC audit inquiries.",
+      "id": "DSAR-2026-7616",
+      "status": "Pending Verification",
+      "createdAt": "2026-11-04T09:41:09.843Z"
+    },
+    {
+      "id": "DSAR-2026-8819",
+      "requestType": "access_export",
+      "fullName": "Marcus Vance",
+      "email": "m.vance@vanguard-holdings.co.uk",
+      "companyName": "Vanguard Holdings Ltd",
+      "country": "United Kingdom",
+      "details": "Requesting export of all marketing performance audit inquiries and personal contact records under UK GDPR Article 15.",
+      "status": "Fulfilled",
+      "resolutionNotes": "Verified requester identity via email challenge token. Export payload delivered.",
+      "createdAt": "2026-11-01T14:30:00Z",
+      "resolvedAt": "2026-11-02T09:15:00Z"
+    },
+    {
+      "id": "DSAR-2026-9244",
+      "requestType": "opt_out_sale",
+      "fullName": "Elena Rostova",
+      "email": "elena@novatech-eu.com",
+      "companyName": "NovaTech EU",
+      "country": "Germany",
+      "details": "Opt-out of cross-context behavioral ad targeting and third-party advertising cookies under GDPR & CCPA.",
+      "status": "Fulfilled",
+      "resolutionNotes": "Tracking identifiers flagged for universal exclusion in CRM and ad pixels.",
+      "createdAt": "2026-11-02T16:20:00Z",
+      "resolvedAt": "2026-11-02T16:25:00Z"
+    }
+  ],
+  "securityLogs": [
+    {
+      "id": "sec-1793785285193-j0re",
+      "timestamp": "2026-11-04T09:41:25.193Z",
+      "type": "data_export",
+      "summary": "GDPR Portability export generated for m.vance@vanguard-holdings.co.uk"
+    },
+    {
+      "id": "sec-1793785269843-fbvq",
+      "timestamp": "2026-11-04T09:41:09.843Z",
+      "type": "dsar_submitted",
+      "summary": "DSAR Request DSAR-2026-7616 (access_export) lodged for julian.hayes@meridian-capital.co.uk",
+      "metadata": {
+        "requestId": "DSAR-2026-7616",
+        "type": "access_export"
+      }
+    },
+    {
+      "id": "sec-1",
+      "type": "dsar_submitted",
+      "summary": "New DSAR Request DSAR-2026-8819 received (Right of Access)",
+      "ip": "82.165.197.1",
+      "timestamp": "2026-11-01T14:30:00Z"
+    },
+    {
+      "id": "sec-2",
+      "type": "data_export",
+      "summary": "Portability export compiled for m.vance@vanguard-holdings.co.uk",
+      "ip": "127.0.0.1",
+      "timestamp": "2026-11-02T09:15:00Z"
+    }
+  ],
+  "clientProjects": [
+    {
+      "id": "NX-US-104",
+      "clientName": "David Sterling",
+      "email": "d.sterling@aetheria-retail.co.uk",
+      "companyName": "Aetheria Luxury Goods Ltd",
+      "domain": "https://aetheria-retail.co.uk",
+      "market": "United Kingdom (London)",
+      "tier": "Enterprise Omnichannel Retainer",
+      "monthlyRetainer": 7500,
+      "currency": "GBP",
+      "startDate": "2026-08-15",
+      "leadStrategist": {
+        "name": "Elena Rostova",
+        "title": "VP Performance Marketing",
+        "email": "e.rostova@nexusagency.com",
+        "slackChannel": "#nexus-aetheria-pod",
+        "whatsappUrl": "https://wa.me/442079460991"
+      },
+      "kpis": {
+        "monthlySpend": 18500,
+        "blendedRoas": 4.3,
+        "qualifiedLeads": 412,
+        "cac": 44.9,
+        "cacReductionPct": 31,
+        "revenueGenerated": 79550,
+        "impressions": 620000,
+        "clickThroughRate": 3.24
+      },
+      "sprints": [
+        {
+          "id": "sp-1",
+          "title": "Meta Conversions API (CAPI) Gateway Setup",
+          "category": "Tech",
+          "status": "Completed",
+          "targetDate": "2026-10-18",
+          "summary": "Cloud-hosted server-side event tracking capturing 98.4% of purchase signals bypassing iOS ad blockers."
+        },
+        {
+          "id": "sp-2",
+          "title": "Q4 High-AOV Holiday Creative Batch (12 Concepts)",
+          "category": "Creative",
+          "status": "Under Review",
+          "targetDate": "2026-11-06",
+          "summary": "Studio editorial video hooks & dynamic catalog carousels targeting UK and European luxury shoppers."
+        },
+        {
+          "id": "sp-3",
+          "title": "Shopify Plus Cart Drawer & Checkout CRO Revamp",
+          "category": "CRO",
+          "status": "In Progress",
+          "targetDate": "2026-11-12",
+          "summary": "Dynamic threshold free shipping bar, 1-click upsells, and Apple Pay zero-friction drawer."
+        },
+        {
+          "id": "sp-4",
+          "title": "Google Performance Max Asset Group Restructure",
+          "category": "Paid Ads",
+          "status": "Approved",
+          "targetDate": "2026-11-20",
+          "summary": "Separation of high-margin brand queries from prospecting feed campaigns with ROAS bidding at 450%."
+        }
+      ],
+      "deliverables": [
+        {
+          "id": "del-1",
+          "title": "Technical SEO Forensic Audit & Schema Report",
+          "category": "Search Strategy",
+          "status": "Delivered",
+          "date": "2026-10-22",
+          "fileSize": "4.2 MB",
+          "fileType": "PDF"
+        },
+        {
+          "id": "del-2",
+          "title": "Meta Ad Creative Variations (Batch 4)",
+          "category": "Creative Studio",
+          "status": "Pending Approval",
+          "date": "2026-11-02",
+          "fileSize": "28.4 MB",
+          "fileType": "Figma"
+        },
+        {
+          "id": "del-3",
+          "title": "Conversion Funnel Drop-off Analysis",
+          "category": "CRO & UX",
+          "status": "Delivered",
+          "date": "2026-10-29",
+          "fileSize": "2.1 MB",
+          "fileType": "PDF"
+        },
+        {
+          "id": "del-4",
+          "title": "Monthly Performance & ROAS Board Deck",
+          "category": "Executive Reporting",
+          "status": "Delivered",
+          "date": "2026-11-01",
+          "fileSize": "6.8 MB",
+          "fileType": "PDF"
+        }
+      ],
+      "activityLog": [
+        {
+          "id": "act-1",
+          "timestamp": "2026-11-03T16:20:00Z",
+          "author": "Elena Rostova",
+          "message": "Pushed Batch 4 creative previews to client review. Meta ROAS reached 4.3x this week."
+        },
+        {
+          "id": "act-2",
+          "timestamp": "2026-11-01T11:00:00Z",
+          "author": "David Sterling",
+          "message": "Approved October sprint summary and confirmed Q4 additional £5,000 spend scaling."
+        }
+      ]
+    },
+    {
+      "id": "NX-UAE-208",
+      "clientName": "Tariq Al-Mansoor",
+      "email": "tariq@gulftech-holdings.ae",
+      "companyName": "GulfTech Enterprise Solutions",
+      "domain": "https://gulftech-holdings.ae",
+      "market": "United Arab Emirates (Dubai)",
+      "tier": "GCC High-Growth Authority Retainer",
+      "monthlyRetainer": 32000,
+      "currency": "AED",
+      "startDate": "2026-09-01",
+      "leadStrategist": {
+        "name": "Marcus Vance",
+        "title": "Head of SEO & B2B Strategy",
+        "email": "m.vance@nexusagency.com",
+        "slackChannel": "#nexus-gulftech-pod",
+        "whatsappUrl": "https://wa.me/971501234567"
+      },
+      "kpis": {
+        "monthlySpend": 45000,
+        "blendedRoas": 5.2,
+        "qualifiedLeads": 86,
+        "cac": 523,
+        "cacReductionPct": 38,
+        "revenueGenerated": 234000,
+        "impressions": 480000,
+        "clickThroughRate": 4.12
+      },
+      "sprints": [
+        {
+          "id": "sp-10",
+          "title": "Dual Arabic/English B2B Topic Clusters",
+          "category": "SEO",
+          "status": "Completed",
+          "targetDate": "2026-10-25",
+          "summary": "Targeting regional enterprise cybersecurity keywords across UAE, KSA, and Qatar."
+        },
+        {
+          "id": "sp-11",
+          "title": "Google Search Exact-Match High-Intent C-Suite Campaigns",
+          "category": "Paid Ads",
+          "status": "In Progress",
+          "targetDate": "2026-11-10",
+          "summary": "Negative keyword sculpting and LinkedIn Matched Audience targeting for Gulf enterprise buyers."
+        }
+      ],
+      "deliverables": [
+        {
+          "id": "del-10",
+          "title": "GCC Enterprise Search Market Share Report",
+          "category": "Search Strategy",
+          "status": "Delivered",
+          "date": "2026-10-28",
+          "fileSize": "5.1 MB",
+          "fileType": "PDF"
+        },
+        {
+          "id": "del-11",
+          "title": "Executive Landing Page Wireframes (Arabic/English)",
+          "category": "CRO & UX",
+          "status": "Pending Approval",
+          "date": "2026-11-03",
+          "fileSize": "14.2 MB",
+          "fileType": "Figma"
+        }
+      ],
+      "activityLog": [
+        {
+          "id": "act-10",
+          "timestamp": "2026-11-02T10:15:00Z",
+          "author": "Marcus Vance",
+          "message": "Top-3 ranking achieved for 14 target B2B IT keywords in Dubai and Abu Dhabi."
+        }
+      ]
+    },
+    {
+      "id": "NX-US-315",
+      "clientName": "Sarah Jenkins",
+      "email": "s.jenkins@vanguard-medtech.com",
+      "companyName": "Vanguard Health & MedTech",
+      "domain": "https://vanguard-medtech.com",
+      "market": "United States (New York)",
+      "tier": "Performance Scale & CRO Retainer",
+      "monthlyRetainer": 12000,
+      "currency": "USD",
+      "startDate": "2026-07-10",
+      "leadStrategist": {
+        "name": "Chloe Chen",
+        "title": "Director of CRO & Funnel Optimization",
+        "email": "c.chen@nexusagency.com",
+        "slackChannel": "#nexus-vanguard-pod",
+        "whatsappUrl": "https://wa.me/15550198421"
+      },
+      "kpis": {
+        "monthlySpend": 28000,
+        "blendedRoas": 3.9,
+        "qualifiedLeads": 174,
+        "cac": 160.9,
+        "cacReductionPct": 26,
+        "revenueGenerated": 109200,
+        "impressions": 890000,
+        "clickThroughRate": 2.85
+      },
+      "sprints": [
+        {
+          "id": "sp-20",
+          "title": "HIPAA-Compliant Conversion Tracking & Server Tagging",
+          "category": "Tech",
+          "status": "Completed",
+          "targetDate": "2026-09-30",
+          "summary": "Secure GTM server container routing telemetry with zero patient health information leakage."
+        },
+        {
+          "id": "sp-21",
+          "title": "Interactive Clinician ROI Calculator Redesign",
+          "category": "CRO",
+          "status": "In Progress",
+          "targetDate": "2026-11-15",
+          "summary": "Interactive widget driving +42% more scheduled demo appointments."
+        }
+      ],
+      "deliverables": [
+        {
+          "id": "del-20",
+          "title": "Q3 Funnel Conversion & Demo Rate Review",
+          "category": "Analytics",
+          "status": "Delivered",
+          "date": "2026-10-15",
+          "fileSize": "3.6 MB",
+          "fileType": "PDF"
+        }
+      ],
+      "activityLog": [
+        {
+          "id": "act-20",
+          "timestamp": "2026-11-01T15:40:00Z",
+          "author": "Chloe Chen",
+          "message": "A/B test on pricing table variant B showed +18% lift in enterprise quote requests."
+        }
+      ]
+    }
+  ],
+  "simulations": []
+}

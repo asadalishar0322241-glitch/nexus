@@ -1,0 +1,7 @@
+# Robots.txt for Nexus International Digital Marketing Agency
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+
+Sitemap: https://nexus-agency.com/sitemap.xml
